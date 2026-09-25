@@ -2,7 +2,7 @@ import React from 'react';
 function Hero() {
  return (
  <section style={{ padding: '50px', textAlign: 'center' }}>
- <h1>Hello! I'm [Gerald Patalagan]A WEB Designer</h1>
+ <h1>Hello! I'm [Your Name]</h1>
  <p>Welcome to my portfolio website.</p>
  <div style={{ marginTop: '20px' }}>
  <img src="https://via.placeholder.com/200" alt="Profile" />
